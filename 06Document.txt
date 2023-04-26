@@ -1,3 +1,6 @@
 New Documentin the Second Branch.
 
+<<<<<<< HEAD
 Test conflict
+
+Try conflict
