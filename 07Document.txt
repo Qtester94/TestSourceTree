@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Document from branch2
+=======
+Conflict document
+>>>>>>> ThirdBranch

@@ -1,6 +1,10 @@
 New Documentin the Second Branch.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Test conflict
 
 Try conflict
+=======
+Conflict to old document
+>>>>>>> ThirdBranch
